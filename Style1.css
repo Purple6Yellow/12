@@ -1,0 +1,28 @@
+Header{background-color:#FDD7E4; Color:#CA226B; width: 100%;Height:100px;}
+Footer{background-color:#E7A1B0; Color:#CA226B; width: 100%;Height:100px;}
+Body{background-color:grey;}
+  .rij1{background-color:#E7A1FF; color: black; border-width: 500px;border-color:black; width: 100%;}
+  .rij2{background-color:#000099; color: black; border-width: 500px;border-color:black; width: 100%;}
+      <!-- rij1 heeft blauw accenten, rij2 oranje & rij3 paarse accenten -->
+
+
+                td#r {background-color: #1569C7;color:coral; width:250px; height:250px;}
+                td#a {background-color: #000099;color:#FF66FF; width:250px; height:250px;}
+                td#b {background-color: #000080;color:darkblue; width:250px; height:250px;}
+                td#c {background-color: #1569C7;color:coral; width:250px; height:250px;}
+                td#d {background-color: #488AC7;color:coral; width:250px; height:250px;}
+
+                td#e {background-color: #FBB917;color:green; width:250px; height:250px;}
+                td#f {background-color: #FFA62F;color:green; width:250px; height:250px;}
+                td#g {background-color: #EAC117;color:darkgreen; width:250px; height:250px;}
+                td#h {background-color: #E9AB17;color:darkgreen; width:250px; height:250px;}
+
+                td#i {background-color: #FC6C85;color:yellow; width:250px; height:250px;}
+                td#j {background-color: #F535AA;color:yellow; width:250px; height:250px;}
+                td#k {background-color: Purple;color:orange; width:250px; height:250px;}
+                td#l {background-color: violet;color:orange; width:250px; height:250px;}
+
+                td#m {background-color: #4CC417;color:Grey; width:250px; height:250px;}
+                td#n {background-color: #89C35C;color:Grey; width:250px; height:250px;}
+                td#o {background-color: #3EA055;color:brown; width:250px; height:250px;}
+                td#p {background-color: #387C44;color:brown; width:250px; height:250px;}
